@@ -10,11 +10,11 @@
 <tbody>
   <tr>
     <td width="15%">
-        <a href="https://github.com/HappyAIWalker/HappyAIWalker/happy.png"><img alt="Happy" src="https://github.com/HappyAIWalker/HappyAIWalker/happy.png" width="160" border="1"></a>
+        <a href="https://github.com/HappyAIWalker/HappyAIWalker/blob/main/happy.png"><img alt="Happy" src="https://github.com/HappyAIWalker/HappyAIWalker/blob/main/happy.png" width="160" border="1"></a>
     </td>
     <td>
     <p> 
-        <a><img alt="AIWalker" src="https://github.com/HappyAIWalker/HappyAIWalker/aiwalker.png" width="320" border="1"></a>
+        <a><img alt="AIWalker" src="https://github.com/HappyAIWalker/HappyAIWalker/blob/main/aiwalker.png" width="320" border="1"></a>
     </p>
     </td>
     <td width="45%">
